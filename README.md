@@ -29,8 +29,8 @@ The comparison focused on temperature, rainfall, wind speed, and solar radiation
 
 Note: Because NASA POWER is based on satellite observations and NIWA DataHub uses ground-based weather stations, temperature and solar radiation showed high consistency, while wind speed and rainfall showed moderate consistency.
 
-### 3. Multiple datasets intergration合并 and cleaning
-
+### 3. 🧹Messy real-world data cleaning
+~~~待写
 
 ## Key Findings
 
