@@ -36,7 +36,7 @@ Note: Because NASA POWER is based on satellite observations and NIWA DataHub use
 - Removed irrelevant or empty columns.
 - Removed rows with missing values (`Number`).
 
-### Challenges💡 
+### Challenges💡⭐ 
 
 #### 1. Uneven Sampling Frequency
 The sampling frequency varied across different years and months.  Some years had many sampling days, while others had much fewer observations.
