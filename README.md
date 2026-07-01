@@ -29,7 +29,7 @@ The comparison focused on temperature, rainfall, wind speed, and solar radiation
 
 Note: Because NASA POWER is based on satellite observations and NIWA DataHub uses ground-based weather stations, temperature and solar radiation showed high consistency, while wind speed and rainfall showed moderate consistency.
 
-## 🧹 Messy Real-World Data Cleaning
+## 3.🧹 Messy Real-World Data Cleaning
 
 ### Regular Data Cleaning
 
@@ -38,30 +38,29 @@ Note: Because NASA POWER is based on satellite observations and NIWA DataHub use
 
 ### Challenges💡 
 
-1. Uneven Sampling Frequency
+#### 1. Uneven Sampling Frequency
 The sampling frequency varied across different years and months.  Some years had many sampling days, while others had much fewer observations.
 
-**Method** 
-
+**Method:** 
 Average midge count per seasonal year = Total midge count ÷ Number of sampling days
 
 This standardisation reduced the impact of uneven sampling effort and allowed fair comparisons between seasons.
 
-2. Calendar Year to Seasonal Year
+#### 2. Calendar Year to Seasonal Year
 Because midges are mainly active during the warmer months (summer), I converted the data from **calendar year** to **seasonal year (July–June)**, which better reflects the midge life cycle in New Zealand.
 
-3. Long-to-Wide Format Transformation
+#### 3. Long-to-Wide Format Transformation
 The water quality dataset was originally stored in **long format**, where each row represented one parameter measurement.
 I grouped similar parameters, standardised parameter names, and reshaped the dataset into **wide format**.
 
-4. Small Sample Size
+#### 4. Small Sample Size
 After merging the water quality dataset with the midge dataset, the number of matched dates was very limited.
 
 To increase the number of matched observations, I aggregated both datasets from **daily level to weekly level** before merging.
 
 I also added **p-values** to better evaluate the reliability of the results.
 
-5. Multiple Data Source Integration
+#### 5. Multiple Data Source Integration
 
 ## Key Findings
 
