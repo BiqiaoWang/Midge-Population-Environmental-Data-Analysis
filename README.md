@@ -5,7 +5,7 @@
 This project foucs on explore the relationship between midge populations, water quality parameters, and weather conditions at wastewater treatment ponds in Christchurch, New Zealand.
 
 ## Project Workflow
-<img width="1536" height="1024" alt="Project Workflow" src="https://github.com/user-attachments/assets/bd7a258d-4672-4ae3-a819-d282ae6851b8" />
+<img width="1312" height="1199" alt="workflow diagram" src="https://github.com/user-attachments/assets/edc3efc7-37bb-4817-841c-77ac19257d50" />
 
 ## What Factors Affect Midge Populations?
 <p align="center">
