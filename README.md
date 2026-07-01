@@ -12,7 +12,7 @@ This project foucs on explore the relationship between midge populations, water 
   <img
     src="https://github.com/user-attachments/assets/19100bfc-7fb2-4022-81f7-9544e7baedd6"
     alt="Potential Factors Affecting Midge Populations"
-    width="600">
+    width="500">
 </p>
 
 ## Steps
