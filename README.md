@@ -8,7 +8,12 @@ This project foucs on explore the relationship between midge populations, water 
 <img width="1536" height="1024" alt="Project Workflow" src="https://github.com/user-attachments/assets/bd7a258d-4672-4ae3-a819-d282ae6851b8" />
 
 ## What Factors Affect Midge Populations?
-<img width="2036" height="2444" alt="What Factors Affect Midge Populations" src="https://github.com/user-attachments/assets/19100bfc-7fb2-4022-81f7-9544e7baedd6" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/19100bfc-7fb2-4022-81f7-9544e7baedd6"
+    alt="Potential Factors Affecting Midge Populations"
+    width="600">
+</p>
 
 ## Steps
 ### 1. Data Collection
