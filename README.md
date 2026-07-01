@@ -44,7 +44,7 @@ The sampling frequency varied across different years and months.  Some years had
 **Method:** 
 Average midge count per seasonal year = Total midge count ÷ Number of sampling days
 
-This standardisation reduced the impact of uneven sampling effort and allowed fair comparisons between seasons.
+This standardisation reduced the impact of uneven sampling effort and allowed fair comparisons between different seasonal years.
 
 #### 2. Calendar Year to Seasonal Year
 Because midges are mainly active during the warmer months (summer), I converted the data from **calendar year** to **seasonal year (July–June)**, which better reflects the midge life cycle in New Zealand.
