@@ -34,6 +34,7 @@ Note: Because NASA POWER is based on satellite observations and NIWA DataHub use
 ### Regular Data Cleaning
 
 - Removed irrelevant or empty columns.
+- Removed duplicate records.
 - Removed rows with missing values (`Number`).
 
 ### Challenges💡⭐ 
