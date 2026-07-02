@@ -62,6 +62,39 @@ I also added **p-values** to better evaluate the reliability of the results.
 
 #### 5. Multiple Data Source Integration
 
+## 4. 📈 Statistical Methods
+
+### Correlation Analysis
+
+- Pearson correlation analysis
+- Correlation coefficients
+- p-values for statistical significance
+
+**Purpose:** Identify relationships between midge counts and environmental variables.
+
+---
+
+### Multiple Linear Regression
+
+- Built a multiple linear regression model for Pond 1.
+- Evaluated the combined effects of multiple water quality variables on midge abundance.
+
+---
+
+### Simple Linear Regression
+
+- Built a simple linear regression model for Pond 2.
+- Used dissolved oxygen as the predictor variable.
+
+---
+
+### Principal Component Analysis (PCA)
+
+- Reduced multiple water quality variables into a smaller number of principal components.
+- Identified the main environmental factors influencing water quality.
+
+---
+
 ## Key Findings
 
 ### Tools & Skills
